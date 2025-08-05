@@ -1,2 +1,2 @@
-vers_number = 58
-vers_name = 2.32
+vers_number = 59
+vers_name = 2.33
